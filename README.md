@@ -57,3 +57,4 @@ Consumption options:
 Excel 2010 or earlier Request-Response web app template are used here respectively.
 
 
+for the reference:https://gallery.cortanaintelligence.com/Experiment/Automobile-price-prediction-421
