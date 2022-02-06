@@ -3,10 +3,14 @@ It is used for Predicting the price of the vehicle. Entering the details of the 
 
 
 PROJECT SUMMARY
+
+
 Predicting the car buyers whether they are willing to buy the cars or not.In this we have used attributes like make,body-style,wheel-base,engine-size,horsepower,highway-mpg,price,peak-rpm.If the customer want to buy a car,they need to do the following the steps that is carried out.That can be predicted from the resources which is given by the customer.
 
 
 AZURE SERVICES:
+
+
 Microsoft Azure Machine Learning Studio this is a visual, drag-and-drop tool designed to help users build and deploy predictive analysis models with no coding required.Here the dataset is selected according to the needs.after the selection of the datasets and uploading it as csv file. Selecting the appropriate blocks for the model and male the connection and do the visualization for each blocks.
 
 USING THE MACHINE LEARNING MODELS IN 
@@ -52,4 +56,4 @@ Deplying the model by Setting to web service in Machine Learning Studio.If we ar
 Consumption options:
 Excel 2010 or earlier Request-Response web app template are used here respectively.
 
-for futher referrence:https://gallery.cortanaintelligence.com/Experiment/Automobile-price-prediction-421
+
