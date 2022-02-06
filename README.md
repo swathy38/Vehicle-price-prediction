@@ -17,7 +17,8 @@ Microsoft Azure Machine Learning Studio this is a visual, drag-and-drop tool des
 # VEHICLE PRICE PREDICTION
 
 
-![azure model-1](https://user-images.githubusercontent.com/75720470/152514976-e5736474-40c7-46fc-923c-aea2353af7c4.PNG)
+![image](https://user-images.githubusercontent.com/75720470/152693094-a99cab32-bcb2-4b9d-9e1c-5373d880f578.png)
+
 
 
 
@@ -26,8 +27,9 @@ Microsoft Azure Machine Learning Studio this is a visual, drag-and-drop tool des
 
 # PREDICTED EXPERIMENT
 
+![image](https://user-images.githubusercontent.com/75720470/152693231-36161904-e3e4-4e31-8e2c-944582810de8.png)
 
-![azure model-2](https://user-images.githubusercontent.com/75720470/152515016-f5fea90f-3cf7-4b63-ab8f-f395a7833b41.PNG)
+
 
 
 
